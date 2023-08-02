@@ -1,0 +1,89 @@
+.tema {
+    background-color: #caabbb;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#bienvenida {
+    background-color: #caabbb;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    border-radius: 10px;
+}
+
+
+#sobremi {
+    display: block;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+
+.presentacion {
+    
+    display: block;
+    font-size: x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+}
+
+.contienepresentacion{
+    display:flex;
+    }
+
+#trabajo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: rgb(149, 189, 149);
+    border-radius: 10px;
+    }
+
+#estudios {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: rgba(90, 90, 228, 0.534);
+    border-radius: 10px;
+    }
+
+#contacto { 
+    font-size: x-large;
+    background-color: rgb(204, 180, 118);
+    text-align: center;
+    border-radius: 10px;
+}
+
+#mensaje {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: rgb(197, 100, 100);
+    border-radius: 10px;
+    text-align: center;
+     }
+
+.mifoto {
+    display: block;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px;
+    align-content: center;
+    margin-left: 200px;
+}
+
+
+.secciones  {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(149, 189, 149);
+
+}
+
+.trab {
+    background-color: beige;
+    color: black;
+    font-size: large;
+}
